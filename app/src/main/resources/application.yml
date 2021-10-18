@@ -1,0 +1,8 @@
+foo:
+  bar:
+    host: example.com
+    format:
+      trim: false
+    security:
+      
+      
